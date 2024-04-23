@@ -12,9 +12,9 @@ body {
 }
 .content-details {
     width: 300px;
-    height: 550px;
+    height: 600px;
     background: radial-gradient(circle at 10% 20%, rgba(137, 246, 254, 0.733) 0%, rgba(102, 166, 255, 0.582) 90%);
-    /* padding: 10px; */
+    /* paddi: 10px; */
     margin: 10px;
     border-radius: 10px;
 }
@@ -82,7 +82,7 @@ p.hischat-div {
     margin-bottom: 5px;
 }
 .content-3 {
-    margin-top: 20px;
+    margin-top: 50px;
     padding: 5px 7px;
     border-radius: 50px;
     background-color: rgb(239, 249, 251);
